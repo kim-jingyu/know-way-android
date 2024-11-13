@@ -9,11 +9,13 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/de2dcc80-ebdc-4478-a556-d4eceb99d6fb" alt="icon" width="200"height ="400"/>
     <img src="https://github.com/user-attachments/assets/25bc4efe-d780-4206-998f-561c4ac9557b" alt="department-selection" width="200" height ="400"/>
-    <img src="https://github.com/user-attachments/assets/c6109d52-fedc-4e76-bc99-98da5f037bad" alt="icon" width="200" height ="400"/>
-    <img src="https://github.com/user-attachments/assets/2cc70411-5cb6-4db6-83c7-df5649e1b773" alt="icon" width="200" height ="400"/>
 </div>
 
-
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/c6109d52-fedc-4e76-bc99-98da5f037bad" alt="icon" width="200" height ="400"/>
+    <img src="https://github.com/user-attachments/assets/2cc70411-5cb6-4db6-83c7-df5649e1b773" alt="icon" width="200" height ="400"/>
+    <img src="https://github.com/user-attachments/assets/de9354d0-8b8e-4b11-9ab8-38067efeccbf" alt="icon" width="200" height ="400"/>
+</div>
 
 <div> 
 <br/>
